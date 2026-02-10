@@ -34,6 +34,6 @@ OpenGL – Graphics library for rendering 2D/3D objects
 
 GLUT (OpenGL Utility Toolkit) – For window management, input handling, and animation.
 
-##How to Run:
+###How to Run:
 You need a compiler or IDE to compile C++ code
-Opne the main.o file  to run the program.
+Opne the main.cbp file  to run the program.
